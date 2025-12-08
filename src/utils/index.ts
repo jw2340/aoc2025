@@ -29,3 +29,20 @@
  *     import { myUtil } from '../utils'
  *
  */
+
+export const ADJ_COORDINATES = [
+  { x: -1, y: 0 },
+  { x: 1, y: 0 },
+  { x: 0, y: -1 },
+  { x: 0, y: 1 },
+  { x: 1, y: -1 },
+  { x: -1, y: 1 },
+  { x: 1, y: 1 },
+  { x: -1, y: -1 },
+];
+
+export const isValidCoordinate = (grid: string[][], i: number, j: number) => {
+  if (i < 0 || i >= grid.length) return false;
+  if (j < 0 || j >= grid[i].length) return false;
+  return true;
+};

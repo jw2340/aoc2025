@@ -33,30 +33,30 @@
     },
     {
       "part1": {
-        "solved": false,
-        "result": null,
+        "solved": true,
+        "result": "17443",
         "attempts": [],
-        "time": null
+        "time": 1.925406
       },
       "part2": {
-        "solved": false,
-        "result": null,
+        "solved": true,
+        "result": "172167155440541",
         "attempts": [],
-        "time": null
+        "time": 3.434787
       }
     },
     {
       "part1": {
-        "solved": false,
-        "result": null,
+        "solved": true,
+        "result": "1505",
         "attempts": [],
-        "time": null
+        "time": 10.245206
       },
       "part2": {
-        "solved": false,
-        "result": null,
+        "solved": true,
+        "result": "9182",
         "attempts": [],
-        "time": null
+        "time": 53.307443
       }
     },
     {
